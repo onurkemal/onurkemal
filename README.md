@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://github.com/onuruzun/onuruzun/blob/master/assets/kitty.gif">
+  <img src="https://github.com/onurkemal/onurkemal/blob/master/assets/forthehorde.gif?raw=true">
 </p>
